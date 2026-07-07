@@ -33,11 +33,3 @@ A robust, solid-state motorcycle turn signal controller powered by an STM32G0 mi
 
 ---
 
-## Repository Structure
-
-```text
-├── hardware/
-│   ├── schematics/          # KiCad schematic files
-│   ├── pcb/                 # KiCad board layout files
-│   └── gerbers/             # Production-ready fabrication ZIPs/
-└── images/                  # Schematic, layout, and render images
