@@ -8,7 +8,7 @@ A robust, solid-state motorcycle turn signal controller powered by an STM32G0 mi
 
 | 3D Render (Top) | 3D Render (Bottom) | PCB Layout |
 |---|---|---|
-| ![3D Render Top](images/3d_render_top.png) | ![3D Render Bottom](images/3d_render_bottom.png) | ![PCB Layout](images/pcb_layout.png) |
+| ![3D Render Top](images/3D_Render_TOP.png) | ![3D Render Bottom](images/3D_Render_BOTTOM.png) | ![PCB Layout](images/pcb_layout.png) |
 
 ### Schematic Diagram
 ![Schematic](images/schematic.png)
